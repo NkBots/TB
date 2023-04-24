@@ -1,2 +1,2 @@
-worker:gunicorn app:app & python main.py 
+worker:python main.py 
 
